@@ -3286,7 +3286,7 @@
 		<objectID>16</objectID>
 		<name>204.1</name>
 		<posX>-8.449591</posX>
-		<posY>0.01249999</posY>
+		<posY>-0.01750001</posY>
 		<posZ>-1.220189</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
@@ -3341,7 +3341,7 @@
 		<objectID>21</objectID>
 		<name>214.8</name>
 		<posX>-3.829591</posX>
-		<posY>-0.06</posY>
+		<posY>-0.06999999</posY>
 		<posZ>5.049811</posZ>
 		<scaleX>1</scaleX>
 		<scaleY>1</scaleY>
